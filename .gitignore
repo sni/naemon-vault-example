@@ -1,3 +1,5 @@
 naemon-vault-neb-example
+naemon-vault-example.so
 *.swp
 vendor/
+tools/

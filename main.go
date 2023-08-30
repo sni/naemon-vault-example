@@ -6,8 +6,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ConSol/go-neb-wrapper/neb"
-	"github.com/ConSol/go-neb-wrapper/neb/structs"
+	"github.com/ConSol-Monitoring/go-neb-wrapper/neb"
+	"github.com/ConSol-Monitoring/go-neb-wrapper/neb/structs"
 	"golang.org/x/term"
 )
 
